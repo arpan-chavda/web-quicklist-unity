@@ -1,0 +1,11 @@
+Source: techjar-unity
+Section: gnome
+Priority: extra
+Maintainer: Arpan Chavda <codejarcc@gmail.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.1
+
+Package: techjar-unity
+Architecture: any
+Depends: ${shlibs:Depends}, libunity9
+Description: Its Techjar for Unity..

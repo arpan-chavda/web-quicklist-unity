@@ -1,0 +1,9 @@
+Package: techjar-unity
+Version: 0.0.2-precise
+Architecture: i386
+Maintainer: Arpan Chavda <codejarcc@gmail.com>
+Installed-Size: 62
+Depends: libunity9
+Section: gnome
+Priority: extra
+Description: Its Techjar for Unity..

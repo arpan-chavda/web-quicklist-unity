@@ -1,0 +1,41 @@
+
+[Desktop Entry]
+Version=1.0
+Name=Techjar
+GenericName=Techjar
+Comment=Techjar launcher icon
+Exec=xdg-open http://techjarblog.blogspot.in
+Type=Application
+Terminal=false
+Icon=/usr/share/icons/hicolor/scalable/apps/techjar.png
+Categories=Network;
+X-Ayatana-Desktop-Shortcuts=Android;Hackings;Ubuntu;Windows Tricks;Downloads
+
+Name[en_IN]=techjar
+
+[Android Shortcut Group]
+Name=Apps
+Exec=xdg-open http://techjarblog.blogspot.in/search/label/Android
+TargetEnvironment=Unity
+
+[Hackings Shortcut Group]
+Name=Hackings
+Exec=xdg-open http://techjarblog.blogspot.in/search/label/Hackings
+TargetEnvironment=Unity
+
+[Ubuntu Shortcut Group]
+Name=Ubuntu
+Exec=xdg-open http://techjarblog.blogspot.in/search/label/ubuntu
+TargetEnvironment=Unity
+
+[Windows Tricks Shortcut Group]
+Name=Windows Tricks
+Exec=xdg-open http://techjarblog.blogspot.in/search/label/Windows%20Tricks
+TargetEnvironment=Unity
+
+[Downloads Shortcut Group]
+Name=Downloads
+Exec=xdg-open http://techjarblog.blogspot.in/search/label/Downloads
+TargetEnvironment=Unity
+
+
